@@ -1,0 +1,16 @@
+# ninja log v5
+2	922	7392142204738198	Zork_autogen/timestamp	a81fdbc6ecc01449
+2	922	7392142204738198	Zork_autogen/mocs_compilation.cpp	a81fdbc6ecc01449
+2	922	7392142204738198	C:/Users/User/Documents/QT_Repo/Zork/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Zork_autogen/timestamp	a81fdbc6ecc01449
+2	922	7392142204738198	C:/Users/User/Documents/QT_Repo/Zork/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Zork_autogen/mocs_compilation.cpp	a81fdbc6ecc01449
+932	2718	7392142223507724	CMakeFiles/Zork.dir/room.cpp.obj	75dc5f19545b909a
+924	3842	7392142234747711	CMakeFiles/Zork.dir/Zork_autogen/mocs_compilation.cpp.obj	c6dd92ed3c9d1e6
+928	3955	7392142235897725	CMakeFiles/Zork.dir/main.cpp.obj	afa810d1c0d6e5eb
+22	1256	7392142909813064	Zork_autogen/timestamp	a81fdbc6ecc01449
+22	1256	7392142909813064	Zork_autogen/mocs_compilation.cpp	a81fdbc6ecc01449
+22	1256	7392142909813064	C:/Users/User/Documents/QT_Repo/Zork/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Zork_autogen/timestamp	a81fdbc6ecc01449
+22	1256	7392142909813064	C:/Users/User/Documents/QT_Repo/Zork/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Zork_autogen/mocs_compilation.cpp	a81fdbc6ecc01449
+1261	4539	7392142943663064	CMakeFiles/Zork.dir/Zork_autogen/mocs_compilation.cpp.obj	c6dd92ed3c9d1e6
+1257	4567	7392142943953071	CMakeFiles/Zork.dir/main.cpp.obj	afa810d1c0d6e5eb
+1266	4683	7392142945113559	CMakeFiles/Zork.dir/mainwindow.cpp.obj	b19bb9da9bed9c98
+4684	5075	7392142948980183	Zork.exe	cfffbad0a78d6bfe
